@@ -59,7 +59,7 @@ If there are environment issues (e.g., installing nutpie or getting ArviZ/Infere
 5. Check idata_pymc["sample_stats"].keys() and observe that divergence_message is absent as expected.
 
 ### Reproduction Evidence
-
+https://github.com/omesh-s/pymc.git
 Commit showing reproduction:
 - I will create a minimal script/test in my fork under a dedicated branch (e.g., bug-keep-warning-stat-nutpie) and link the commit here once pushed.
 Screenshots/logs:
