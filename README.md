@@ -170,7 +170,7 @@ I’ll verify that the fix works by:
 
 **Status:** [Awaiting review / Iterating / Approved / Merged]
 
----
+----
 
 ## Learnings & Reflections
 
