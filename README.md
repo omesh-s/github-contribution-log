@@ -7,6 +7,7 @@
 
 ---
 
+
 ## Why I Chose This Issue
 
 I chose this PyMC bug because it sits at the intersection of Bayesian machine learning and practical library engineering, which fits my ML coursework and prior projects in model training and evaluation. It’s a focused, well-described behavior bug around pm.sample and the keep_warning_stat argument, so I can make a concrete, testable change instead of a vague feature.
